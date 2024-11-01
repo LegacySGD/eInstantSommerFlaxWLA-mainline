@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="nb_NO">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="wordToMatch" value="Words To Match"/>
+<phrase key="drawnLetters" value="Drawn Letters"/>
+<phrase key="matched" value="Matched"/>
+<phrase key="wagerType" value="Wager Type"/>
+<phrase key="BUY" value="Buy"/>
+<phrase key="TRY" value="Try"/>
+<phrase key="crossword" value="Crossword"/>
+<phrase key="results" value="Results"/>
+<phrase key="wordsFound" value="Words Found"/>
+<phrase key="win" value="Win"/>
+<phrase key="winningNumbers" value="Winning Numbers"/>
+<phrase key="yourNumbers" value="Your Numbers"/>
+<phrase key="boardValues" value="Board Values"/>
+<phrase key="youMatched" value="You Matched"/>
+<phrase key="cash" value="Cash"/>
+<phrase key="count" value="Count"/>
+<phrase key="requires" value="Requires"/>
+<phrase key="letter" value="Letter"/>
+<phrase key="wins" value="Wins"/>
+<phrase key="KNMTitle" value="Key Number Match Game"/>
+<phrase key="CWDTitle" value="Crossword Game"/>
+<phrase key="MATTitle" value="Match 3 of 9 Game"/>
+<phrase key="SYMTitle" value="Symbol Match Game"/>
+</translation>
